@@ -4,9 +4,9 @@
 
 Clone this repository.
 
-Put your cakephp source to `app` directory.
+put your cakephp3 source to `app` directory.
 
-and run docker-compose
+and run docker-compose up
 
 ```
 docker-compose up -d 
