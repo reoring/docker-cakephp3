@@ -12,4 +12,4 @@ and run docker-compose
 docker-compose up -d 
 ```
 
-then open `http://localhost:8080/`
+then open [http://localhost:8080/](http://localhost:8080/)
